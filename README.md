@@ -1,0 +1,2 @@
+# Java exercise: "La salle des trésors"
+A treasure keeper asks you to design a system that can display the number of treasures counted each day. Each time a treasure is counted, it must be displayed on the screen with a special description for treasures counted at positions that are multiples of 3.
